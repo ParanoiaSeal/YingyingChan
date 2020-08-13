@@ -4,7 +4,7 @@
 
 
 
-<center><font size=18 color=green>嘤嘤饭站</center>
+<center><font size=18 color=green>嘤嘤饭站</font></center>
 
 
 
