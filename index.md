@@ -1,8 +1,12 @@
-<img src="index/image-20200813153428575.png" alt="image-20200813153428575" style="zoom:50%;" />
+<center><img src="index/image-20200813153428575.png" alt="image-20200813153428575" style="zoom:50%;" /></center>
 
 <center><font size=18 color=green>Yingyingchan-Website</center>
 
+
+
 <center><font size=18 color=green>嘤嘤饭站</center>
+
+
 
 # 我的 YingyingChan 出了什么问题？
 
